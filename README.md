@@ -2,13 +2,14 @@
 
 This repository hosts a collection of datasets for Bangla Sign Language, aimed at supporting research and development in sign language recognition and machine learning. Below is a summary of the available datasets.
 
-| Dataset               | Classes | Type                 | Videos | Signers | Availability  | PDF                                  | Dataset Link                       |
-|-----------------------|---------|----------------------|--------|---------|---------------|--------------------------------------|------------------------------------|
-| SignBD-Word           | 200     | RGB, Skeleton                 | 6000   | Yes    | Public| [Link to PDF](https://ieeexplore.ieee.org/document/10306914)          | [Link to Dataset]([DATASET-URL-HERE](https://sites.google.com/view/signbd-word/dataset))|
-| BanglaSL Dataset 2    | Y       | RGB, Depth           | YYY    | YY      | Public/Private| [Link to PDF](PDF-URL-HERE)          | [Link to Dataset](DATASET-URL-HERE)|
-| BanglaSL Extended Set | Z       | RGB, Depth, Skeleton | ZZZ    | ZZ      | Public/Private| [Link to PDF](PDF-URL-HERE)          | [Link to Dataset](DATASET-URL-HERE)|
+This repository hosts a collection of datasets for Bangla Sign Language, aimed at supporting research and development in sign language recognition and machine learning. Below is a summary of the available datasets.
 
-## Overview
+| Dataset               | Continuous/Word-level | Classes | Type                 | Videos | Signers | Availability  | Paper Link                               | Dataset Link                        |
+|-----------------------|-----------------------|---------|----------------------|--------|---------|---------------|------------------------------------------|------------------------------------|
+| SignBD-Word           | Word-level            | 200     | RGB, Skeleton        | 6000   | Yes     | Public        | [Link to PDF](https://ieeexplore.ieee.org/document/10306914) | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)|
+| BanglaSL Dataset 2    | Continuous/Word-level | Y       | RGB, Depth           | YYY    | YY      | Public/Private| [Link to PDF](PDF-URL-HERE)              | [Link to Dataset](DATASET-URL-HERE)|
+| BanglaSL Extended Set | Continuous/Word-level | Z       | RGB, Depth, Skeleton | ZZZ    | ZZ      | Public/Private| [Link to PDF](PDF-URL-HERE)              | [Link to Dataset](DATASET-URL-HERE)|
+
 
 The datasets listed above are compiled to facilitate the development and testing of algorithms for Bangla Sign Language recognition. Each dataset varies by the number of classes, type of data provided (e.g., RGB video, depth maps, skeleton data), the total number of videos, the number of signers, availability (whether the dataset is publicly available or private), and links to the dataset's descriptive PDF and the dataset itself.
 
