@@ -3,8 +3,8 @@
 This repository hosts a collection of datasets for Bangla Sign Language video dataset, aimed at supporting research and development in sign language recognition and machine learning. Below is a summary of the available datasets. 
 
 # Remarks: 
-[I skipped video dataset for Bangla letter recognition, as to the best of my knowledge, Bangla sign language users do not actively use them to communicate with each other. So, future research should focus on Word-level or Continuous Sign Language.] 
-[Same for Static/Image-based Sign language, as most of the sign actions can not be showcassed through images which make the approach redundant.]
+* I skipped video dataset for Bangla letter recognition, as to the best of my knowledge, Bangla sign language users do not actively use them to communicate with each other. So, future research should focus on Word-level or Continuous Sign Language.
+* Same for Static/Image-based Sign language, as most of the sign actions can not be showcassed through images which make the approach redundant.
 
 
 This repository hosts a collection of Open access and public datasets and papers for Bangla Sign Language, aimed at supporting future research and development in sign language recognition and machine learning. Below is a summary of the available datasets.
