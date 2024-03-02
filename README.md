@@ -28,7 +28,7 @@ We acknowledge the contributions of all the researchers and participants who hav
 
 For more information or to contribute to this collection, please contact [contact-information].
 
-**Cite my paper if this repo helped you in any way! **
+**Cite my paper if this repo helped you in any way!**
 
 _A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914.
 _
