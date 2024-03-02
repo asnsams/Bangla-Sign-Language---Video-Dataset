@@ -4,10 +4,10 @@ This repository hosts a collection of datasets for Bangla Sign Language, aimed a
 
 This repository hosts a collection of datasets for Bangla Sign Language, aimed at supporting research and development in sign language recognition and machine learning. Below is a summary of the available datasets.
 
-| Dataset               | Continuous/Word-level | Classes | Type                 | Videos | Signers | Availability  | Paper Link                               | Dataset Link                        |
+| Dataset               | Continuous/Word-level | Word-Classes | Type                 | Videos | Signers | Availability  | Paper Link                               | Dataset Link                        |
 |-----------------------|-----------------------|---------|----------------------|--------|---------|---------------|------------------------------------------|------------------------------------|
-| SignBD-Word           | Word-level            | 200     | RGB, Skeleton        | 6000   | Yes     | Public        | [Link to PDF](https://ieeexplore.ieee.org/document/10306914) | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)|
-| BanglaSL Dataset 2    | Continuous/Word-level | Y       | RGB, Depth           | YYY    | YY      | Public/Private| [Link to PDF](PDF-URL-HERE)              | [Link to Dataset](DATASET-URL-HERE)|
+| SignBD-Word  [1]         | Word-level            | 200     | RGB, Skeleton        | 6000   | 14 |  Yes     | Public        | [Link to PDF](https://ieeexplore.ieee.org/document/10306914) | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)|
+| MVBSLW50 [2]    | Word-level | 50       | RGB, Skeleton         | 4000  | YY      | Public/Private| [Link to PDF](PDF-URL-HERE)              | [Link to Dataset](DATASET-URL-HERE)|
 | BanglaSL Extended Set | Continuous/Word-level | Z       | RGB, Depth, Skeleton | ZZZ    | ZZ      | Public/Private| [Link to PDF](PDF-URL-HERE)              | [Link to Dataset](DATASET-URL-HERE)|
 
 
@@ -27,4 +27,8 @@ The availability column indicates whether a dataset is publicly accessible or pr
 We acknowledge the contributions of all the researchers and participants who have made these datasets available for the broader research community.
 
 For more information or to contribute to this collection, please contact [contact-information].
+
+Reference: 
+[1] A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914.
+[2] 
 
