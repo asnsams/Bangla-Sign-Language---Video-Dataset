@@ -4,7 +4,7 @@ This repository hosts a collection of datasets for Bangla Sign Language, aimed a
 
 | Dataset               | Classes | Type                 | Videos | Signers | Availability  | PDF                                  | Dataset Link                       |
 |-----------------------|---------|----------------------|--------|---------|---------------|--------------------------------------|------------------------------------|
-| BanglaSL Dataset 1    | X       | RGB                  | XXX    | XX      | Public/Private| [Link to PDF](PDF-URL-HERE)          | [Link to Dataset](DATASET-URL-HERE)|
+| SignBD-Word           | 200     | RGB, Skeleton                 | 6000   | Yes    | Public| [Link to PDF](https://ieeexplore.ieee.org/document/10306914)          | [Link to Dataset]([DATASET-URL-HERE](https://sites.google.com/view/signbd-word/dataset))|
 | BanglaSL Dataset 2    | Y       | RGB, Depth           | YYY    | YY      | Public/Private| [Link to PDF](PDF-URL-HERE)          | [Link to Dataset](DATASET-URL-HERE)|
 | BanglaSL Extended Set | Z       | RGB, Depth, Skeleton | ZZZ    | ZZ      | Public/Private| [Link to PDF](PDF-URL-HERE)          | [Link to Dataset](DATASET-URL-HERE)|
 
