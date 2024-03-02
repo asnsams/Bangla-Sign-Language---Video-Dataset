@@ -40,7 +40,7 @@ A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-
 
 
 
-
+<!--
 A few more papers you can check out on related topic :
 * M. A. Rahaman, M. H. Ali, and M. Hasanuzzaman, "Real-time computer vision-based gestures recognition system for Bangla sign language using multiple linguistic features analysis," Multimed Tools Appl, vol. 83, pp. 22261–22294, 2024. [Online]. Available: https://doi.org/10.1007/s11042-023-15583-8
 * 
