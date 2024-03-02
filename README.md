@@ -11,7 +11,7 @@ This repository hosts a collection of Open access and public datasets and papers
 
 | Dataset               | Continuous/Word-level | Word-Classes | Type                 | Videos | Signers | Availability  | Paper Link                               | Dataset Link                        |
 |-----------------------|-----------------------|---------|----------------------|--------|---------|---------------|------------------------------------------|------------------------------------|
-| SignBD-Word  [1]         | Word-level            | 200     | RGB, Skeleton        | 6000   | 14 |  Public     | [Link to PDF](https://drive.google.com/file/d/1GAjHdofGGxOfCnD81pvdiocs53M3ZucQ/view) | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)|
+| SignBD-Word  [1]         | Word-level            | 200 [subclass 90]    | RGB, Skeleton        | 6000   | 14 |  Public     | [Link to PDF](https://drive.google.com/file/d/1GAjHdofGGxOfCnD81pvdiocs53M3ZucQ/view) | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)|
 | MVBSLW50 [2]    | Word-level | 50       | RGB, Skeleton         | 4000  | 40     | Private| [Link to PDF](https://arxiv.org/pdf/2302.11559.pdf)              | None |
 | BdSL40 [3] | Word-level | 40       | RGB | 611 | N/A      | Public | [Link to PDF](https://arxiv.org/pdf/2401.12210.pdf)            | [Link to Dataset](https://github.com/Patchwork53/BdSL40_Dataset_AI_for_Bangla_2.0_Honorable_Mention)|
 | BdSLW60 [4] | Word-level | 60      | RGB | 9307 | 18      | Public | [Link to PDF](https://arxiv.org/ftp/arxiv/papers/2402/2402.08635.pdf)              | [Link to Dataset](https://github.com/Patchwork53/BdSL40_Dataset_AI_for_Bangla_2.0_Honorable_Mention)|
