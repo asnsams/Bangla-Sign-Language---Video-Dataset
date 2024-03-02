@@ -32,7 +32,8 @@ For more information or to contribute to this collection, please contact [contac
 
 _A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914._
 
-**Reference: **
+**Reference:**
+
 [1] A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914.
 
 [2] M. S. Islam, A. J. M. A. Joha, M. N. Hossain, S. Abdullah, I. Elwarfalli, and M. M. Hasan, "Word level Bangla Sign Language Dataset for Continuous BSL Recognition," 2023. [Online]. Available: arXiv:2302.11559.
