@@ -34,8 +34,11 @@ A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-
 
 **Reference: **
 [1] A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914.
+
 [2] M. S. Islam, A. J. M. A. Joha, M. N. Hossain, S. Abdullah, I. Elwarfalli, and M. M. Hasan, "Word level Bangla Sign Language Dataset for Continuous BSL Recognition," 2023. [Online]. Available: arXiv:2302.11559.
+
 [3] H. S. Shahgir, K. S. Sayeed, M. T. Tahmid, T. A. Zaman, and M. Z. Ul Alam, "Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition," 2024. [Online]. Available: arXiv:2401.12210. [Accessed: day-month-year].
+
 [4] H. A. Rubaiyeat, H. Mahmud, A. Habib, and M. K. Hasan, "BdSLW60: A Word-Level Bangla Sign Language Dataset," 2024, arXiv:2402.08635. [Online]. Available: https://arxiv.org/abs/2402.08635
 
 
